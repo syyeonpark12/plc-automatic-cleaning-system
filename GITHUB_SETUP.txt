@@ -1,0 +1,12 @@
+Repository name
+plc-automatic-cleaning-system
+
+Description
+PLC 기반 공압 실린더 부품 자동 세척 공정 제어 프로젝트
+
+Topics
+plc
+ladder-logic
+pneumatic-cylinder
+factory-automation
+smart-factory
